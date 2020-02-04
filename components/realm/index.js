@@ -1,5 +1,4 @@
-// components/realm/index.js
-import {FenceGroup} from "../models/fence-group-";
+import {FenceGroup} from "../models/fence-group";
 
 Component({
   /**
@@ -13,7 +12,7 @@ Component({
    * 组件的初始数据
    */
   data: {
-
+    fences: null
   },
 
   /**
@@ -26,6 +25,7 @@ Component({
       }
       const fenceGroup = new FenceGroup(spu)
       fenceGroup.initFences()
+      this.bindInitData(fenceGroup)
     }
   },
 
@@ -33,6 +33,10 @@ Component({
    * 组件的方法列表
    */
   methods: {
-
+    bindInitData: function(fencesGroup) {
+      this.setData({
+        fences: fencesGroup.fences,
+      })
+    }
   }
 })

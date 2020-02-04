@@ -4,14 +4,21 @@ import {Fence} from "./fence";
 class FenceGroup {
     spu
     skuList = []
+    fences = []
 
     constructor(spu) {
         this.spu = spu
         this.skuList = spu.sku_list
     }
 
-    // 矩阵思维
-    initFences() {
+    /**
+     * matrix 数组 实例并不是真正的格式
+     * 金属灰 七龙珠 小号S
+     * 青芒色 灌篮高手 中号M
+     * 青芒色 圣斗士 大号L
+     * 橘黄色 七龙珠 小号S
+     */
+    initFences1() {
         const matrix = this._createMatrix(this.skuList)
         const fences = []
         let currentJ = -1
@@ -23,10 +30,11 @@ class FenceGroup {
             }
             fences[currentJ].pushValueTitle(element.value)
         })
+        console.log("fences:",fences)
     }
 
     // 使用矩阵转置
-    initFences2() {
+    initFences() {
         const matrix = this._createMatrix(this.skuList)
         const fences = []
         const AT = matrix.transpose()
@@ -35,6 +43,7 @@ class FenceGroup {
             fence.init()
             fences.push(fence)
         })
+        this.fences = fences;
         console.log("fences:",fences)
     }
 

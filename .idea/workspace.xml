@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f01921f-632d-46bb-bbd5-650c360aa81e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/fence/index.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/components/fence/index.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/models/fence.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/models/fence.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/models/spu.js" beforeDir="false" afterPath="$PROJECT_DIR$/model/spu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/realm/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/realm/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/detail/detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/detail/detail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/detail/detail.wxml" beforeDir="false" afterPath="$PROJECT_DIR$/pages/detail/detail.wxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
-    </list>
+    <list default="true" id="5f01921f-632d-46bb-bbd5-650c360aa81e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,12 +87,24 @@
       <workItem from="1580390074180" duration="1114000" />
       <workItem from="1580626208596" duration="11039000" />
       <workItem from="1580751539070" duration="64000" />
-      <workItem from="1580812677599" duration="4880000" />
+      <workItem from="1580812677599" duration="15939000" />
     </task>
+    <task id="LOCAL-00001" summary="sku行列转换 矩阵重置思维实现">
+      <created>1580831709848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580831709848</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sku行列转换 矩阵重置思维实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="sku行列转换 矩阵重置思维实现" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="19" key="#Inspections" timestamp="1577254131159">
@@ -129,6 +131,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="420" y="102" key="FileChooserDialogImpl/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577506760075" />
+    <state width="1259" height="155" key="GridCell.Tab.0.bottom" timestamp="1580833616450">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580833616450" />
+    <state width="1259" height="155" key="GridCell.Tab.0.center" timestamp="1580833616450">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1580833616450" />
+    <state width="1259" height="155" key="GridCell.Tab.0.left" timestamp="1580833616450">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1580833616450" />
+    <state width="1259" height="155" key="GridCell.Tab.0.right" timestamp="1580833616450">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="155" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1580833616450" />
     <state x="221" y="95" key="IDE.errors.dialog" timestamp="1577176845675">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -137,15 +155,20 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="167" y="3" key="SettingsEditor/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577688788320" />
-    <state x="297" y="161" key="run.anything.popup" timestamp="1577516746414">
+    <state x="311" y="77" width="658" height="566" key="find.popup" timestamp="1580836411027">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="311" y="77" width="658" height="566" key="find.popup/0.0.1280.720@0.0.1280.720" timestamp="1580836411027" />
+    <state x="297" y="161" key="run.anything.popup" timestamp="1580833624720">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="297" y="161" key="run.anything.popup/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577516746414" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1579553568485">
+    <state x="297" y="161" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1580833624720" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1580836394032">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/-1024.305.1024.768@0.0.1280.720" timestamp="1579534728811" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577690361637" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1579553568485" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1580836394032" />
   </component>
 </project>

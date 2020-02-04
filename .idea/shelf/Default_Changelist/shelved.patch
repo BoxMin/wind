@@ -1,0 +1,99 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"5f01921f-632d-46bb-bbd5-650c360aa81e\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/app.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/app.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/components/fence/index.wxml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/components/fence/index.wxml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/components/models/fence.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/components/models/fence.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/components/models/spu.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/model/spu.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/components/realm/index.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/components/realm/index.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pages/detail/detail.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pages/detail/detail.js\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pages/detail/detail.wxml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pages/detail/detail.wxml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/project.config.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/project.config.json\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1VOLdHew9Gf9kLKMJl6Lah1mhHJ\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectReloadState\">\r\n    <option name=\"STATE\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showExcludedFiles\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"editing.templates\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\" />\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\\model\" />\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\\utils\" />\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\\components\\like\\images\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\\model\" />\r\n      <recent name=\"C:\\Users\\90371\\WeChatProjects\\wind\\components\\models\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"ServiceViewManager\">\r\n    <option name=\"viewStates\">\r\n      <list>\r\n        <serviceView>\r\n          <treeState>\r\n            <expand />\r\n            <select />\r\n          </treeState>\r\n        </serviceView>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"5f01921f-632d-46bb-bbd5-650c360aa81e\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1577119280760</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1577119280760</updated>\r\n      <workItem from=\"1577119283822\" duration=\"2522000\" />\r\n      <workItem from=\"1577168467204\" duration=\"4621000\" />\r\n      <workItem from=\"1577174070250\" duration=\"2920000\" />\r\n      <workItem from=\"1577177070511\" duration=\"4224000\" />\r\n      <workItem from=\"1577196029550\" duration=\"11895000\" />\r\n      <workItem from=\"1577418268264\" duration=\"493000\" />\r\n      <workItem from=\"1577418801791\" duration=\"155000\" />\r\n      <workItem from=\"1577419013170\" duration=\"4544000\" />\r\n      <workItem from=\"1577505384891\" duration=\"414000\" />\r\n      <workItem from=\"1577505826925\" duration=\"184000\" />\r\n      <workItem from=\"1577506245717\" duration=\"181000\" />\r\n      <workItem from=\"1577506469796\" duration=\"588000\" />\r\n      <workItem from=\"1577507235899\" duration=\"22000\" />\r\n      <workItem from=\"1577507261043\" duration=\"7000\" />\r\n      <workItem from=\"1577507270409\" duration=\"43481000\" />\r\n      <workItem from=\"1579529223953\" duration=\"21818000\" />\r\n      <workItem from=\"1580390074180\" duration=\"1114000\" />\r\n      <workItem from=\"1580626208596\" duration=\"11039000\" />\r\n      <workItem from=\"1580751539070\" duration=\"64000\" />\r\n      <workItem from=\"1580812677599\" duration=\"4880000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"233\" y=\"19\" key=\"#Inspections\" timestamp=\"1577254131159\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"233\" y=\"19\" key=\"#Inspections/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577254131159\" />\r\n    <state x=\"233\" y=\"19\" key=\"#Plugins\" timestamp=\"1577507060060\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"233\" y=\"19\" key=\"#Plugins/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577507060060\" />\r\n    <state x=\"377\" y=\"163\" key=\"#com.intellij.fileTypes.FileTypeChooser\" timestamp=\"1577503141749\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"377\" y=\"163\" key=\"#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577503141749\" />\r\n    <state x=\"390\" y=\"230\" key=\"#com.intellij.ide.actions.ChooseComponentsToExportDialog\" timestamp=\"1577506773977\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"390\" y=\"230\" key=\"#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577506773977\" />\r\n    <state x=\"271\" y=\"139\" key=\"EditFileWatcherDialog\" timestamp=\"1577167992522\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"271\" y=\"139\" key=\"EditFileWatcherDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577167992522\" />\r\n    <state x=\"420\" y=\"102\" key=\"FileChooserDialogImpl\" timestamp=\"1577506760075\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"420\" y=\"102\" key=\"FileChooserDialogImpl/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577506760075\" />\r\n    <state x=\"221\" y=\"95\" key=\"IDE.errors.dialog\" timestamp=\"1577176845675\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"221\" y=\"95\" key=\"IDE.errors.dialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577176845675\" />\r\n    <state x=\"167\" y=\"3\" key=\"SettingsEditor\" timestamp=\"1577688788320\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"167\" y=\"3\" key=\"SettingsEditor/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577688788320\" />\r\n    <state x=\"297\" y=\"161\" key=\"run.anything.popup\" timestamp=\"1577516746414\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"297\" y=\"161\" key=\"run.anything.popup/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577516746414\" />\r\n    <state x=\"303\" y=\"41\" width=\"672\" height=\"678\" key=\"search.everywhere.popup\" timestamp=\"1579553568485\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"720\" />\r\n    </state>\r\n    <state x=\"303\" y=\"41\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1280.720/-1024.305.1024.768@0.0.1280.720\" timestamp=\"1579534728811\" />\r\n    <state x=\"303\" y=\"41\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720\" timestamp=\"1577690361637\" />\r\n    <state x=\"303\" y=\"41\" width=\"672\" height=\"678\" key=\"search.everywhere.popup/0.0.1280.720@0.0.1280.720\" timestamp=\"1579553568485\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 74d86de2d69415cc4b167e760c3446dd67e4ca61)
++++ .idea/workspace.xml	(date 1580831713286)
+@@ -121,6 +121,10 @@
+       <screen x="0" y="0" width="1280" height="720" />
+     </state>
+     <state x="390" y="230" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577506773977" />
++    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1580831705982">
++      <screen x="0" y="0" width="1280" height="720" />
++    </state>
++    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1580831705982" />
+     <state x="271" y="139" key="EditFileWatcherDialog" timestamp="1577167992522">
+       <screen x="0" y="0" width="1280" height="720" />
+     </state>
+Index: components/cell/index.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- components/cell/index.js	(date 1580819577465)
++++ components/cell/index.js	(date 1580819577465)
+@@ -0,0 +1,23 @@
++// components/cell/index.js
++Component({
++  /**
++   * 组件的属性列表
++   */
++  properties: {
++
++  },
++
++  /**
++   * 组件的初始数据
++   */
++  data: {
++
++  },
++
++  /**
++   * 组件的方法列表
++   */
++  methods: {
++
++  }
++})
+Index: components/cell/index.wxss
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- components/cell/index.wxss	(date 1580819577472)
++++ components/cell/index.wxss	(date 1580819577472)
+@@ -0,0 +1,1 @@
++/* components/cell/index.wxss */
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(date 1580638054714)
++++ .idea/vcs.xml	(date 1580638054714)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: components/cell/index.wxml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- components/cell/index.wxml	(date 1580819577470)
++++ components/cell/index.wxml	(date 1580819577470)
+@@ -0,0 +1,2 @@
++<!--components/cell/index.wxml-->
++<text>components/cell/index.wxml</text>
+Index: components/cell/index.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- components/cell/index.json	(date 1580819577468)
++++ components/cell/index.json	(date 1580819577468)
+@@ -0,0 +1,4 @@
++{
++  "component": true,
++  "usingComponents": {}
++}
+\ No newline at end of file
