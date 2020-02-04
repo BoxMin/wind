@@ -17,8 +17,5 @@ Component({
    * 监听器,处理数据
    */
   observers: {
-    'fence': function (fence) {
-      console.log('cell: ', fence)
-    }
   }
 })
