@@ -1,4 +1,4 @@
-import {Spu} from "../../models/spu";
+import {Spu} from "../../model/spu";
 
 Page({
 
