@@ -40,6 +40,9 @@ Component({
       this.setData({
         fences: fencesGroup.fences,
       })
+    },
+    onCellTap (event) {
+      const cell = event.detail.cell
     }
   }
 })

@@ -1,4 +1,3 @@
-// components/cell/index.js
 Component({
   /**
    * 组件的属性列表
@@ -18,6 +17,13 @@ Component({
    * 组件的方法列表
    */
   methods: {
-
+    onTap (event) {
+      this.triggerEvent('cellTap', {
+        cell: this.properties.cell
+      }, {
+        bubbles: true,
+        composed: true
+      })
+    }
   }
 })
