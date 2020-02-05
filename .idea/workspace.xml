@@ -32,7 +32,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +59,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\90371\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +87,7 @@
       <workItem from="1580390074180" duration="1114000" />
       <workItem from="1580626208596" duration="11039000" />
       <workItem from="1580751539070" duration="64000" />
-      <workItem from="1580812677599" duration="18286000" />
+      <workItem from="1580812677599" duration="25913000" />
     </task>
     <task id="LOCAL-00001" summary="sku行列转换 矩阵重置思维实现">
       <created>1580831709848</created>
@@ -151,10 +151,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="221" y="95" key="IDE.errors.dialog/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577176845675" />
-    <state x="167" y="3" key="SettingsEditor" timestamp="1577688788320">
+    <state x="167" y="3" key="SettingsEditor" timestamp="1580850465023">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="167" y="3" key="SettingsEditor/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1577688788320" />
+    <state x="167" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1580850465023" />
     <state x="311" y="77" width="658" height="566" key="find.popup" timestamp="1580836411027">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
