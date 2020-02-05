@@ -30,15 +30,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/utils" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Presentation" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\90371\WeChatProjects\wind\utils" />
       <recent name="C:\Users\90371\WeChatProjects\wind" />
       <recent name="C:\Users\90371\WeChatProjects\wind\model" />
-      <recent name="C:\Users\90371\WeChatProjects\wind\utils" />
       <recent name="C:\Users\90371\WeChatProjects\wind\components\like\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,7 +87,7 @@
       <workItem from="1580390074180" duration="1114000" />
       <workItem from="1580626208596" duration="11039000" />
       <workItem from="1580751539070" duration="64000" />
-      <workItem from="1580812677599" duration="38588000" />
+      <workItem from="1580812677599" duration="44144000" />
     </task>
     <task id="LOCAL-00001" summary="sku行列转换 矩阵重置思维实现">
       <created>1580831709848</created>
