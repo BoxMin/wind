@@ -30,7 +30,6 @@ class FenceGroup {
             }
             fences[currentJ].pushValueTitle(element.value)
         })
-        console.log("fences:",fences)
     }
 
     // 使用矩阵转置
@@ -44,7 +43,6 @@ class FenceGroup {
             fences.push(fence)
         })
         this.fences = fences;
-        console.log("fences:",fences)
     }
 
     _createFence(element) {

@@ -27,15 +27,26 @@ class Judger {
             const skuCode = new SkuCode(s.code);
             this.pathDict = this.pathDict.concat(skuCode.totalSegments);
         });
-        console.log(this.pathDict);
     }
 
     judge(cell,x,y) {
         this._changeCurrentCellStatus(cell,x,y)
-        this.fengceGroup.eachCell( (cell, x, y) => {
+        this.fengceGroup.eachCell((cell, x, y) => {
             const path = this.findPotentialPath(cell, x, y)
-            console.log(path)
+            if (!path){
+                return
+            }
+            const isIn = this._isInDict(path)
+            if (isIn) {
+                this.fengceGroup.fences[x].cells[y].status = CellStatus.WAITING
+            } else {
+                this.fengceGroup.fences[x].cells[y].status = CellStatus.FORBIDDEN
+            }
         })
+    }
+
+    _isInDict(path) {
+        return this.pathDict.includes(path)
     }
 
 
@@ -45,6 +56,9 @@ class Judger {
             const selected = this.skuPending.findSelectedCellByX(i)
             if (x === i) {
                 //当前行
+                if (this.skuPending.isSelected(cell, x)) {
+                    return
+                }
                 const cellCode = this._getCellCode(cell.spec)
                 joiner.join(cellCode)
             } else {
@@ -61,13 +75,16 @@ class Judger {
         return spec.key_id + '-' + spec.value_id
     }
 
+    // 点击的时候改变cell的状态，这里的cell由cell组件传入
     _changeCurrentCellStatus (cell,x,y) {
+        // 可选 -> 选中
         if (cell.status === CellStatus.WAITING){
             // cell.status = CellStatus.SELECTED
             this.fengceGroup.fences[x].cells[y].status = CellStatus.SELECTED
+            //
             this.skuPending.insertCell(cell, x)
         }
-
+        // 选中 -> 可选
         if (cell.status === CellStatus.SELECTED){
             // cell.status = CellStatus.WAITING
             this.fengceGroup.fences[x].cells[y].status = CellStatus.WAITING
