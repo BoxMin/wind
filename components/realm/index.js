@@ -1,5 +1,6 @@
 import {FenceGroup} from "../models/fence-group";
 import {Judger} from "../models/judger";
+import {Spu} from "../../model/spu";
 
 Component({
   /**
@@ -19,7 +20,8 @@ Component({
     title: String,
     price: null,
     discountPrice: null,
-    stock: null
+    stock: null,
+    noSpec: false
   },
 
   /**
@@ -29,6 +31,14 @@ Component({
     'spu': function (spu) {
       if(!spu){
         return
+      }
+      // 无规格判断
+      if (Spu.isNoSpec(spu)) {
+        this.setData({
+          noSpec: true
+        });
+        this.bindSkuData(spu.sku_list[0]);
+        return;
       }
       const fenceGroup = new FenceGroup(spu)
       fenceGroup.initFences()
