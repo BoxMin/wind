@@ -44,3 +44,16 @@
 .sku-pending {
     font-size: 20rpx;
 }
+
+.stock {
+    margin-left:30rpx;
+    font-size: 20rpx;
+    color: #999;
+}
+
+.stock-pinch{
+    margin-left:30rpx;
+    font-size: 20rpx;
+    color: #D20109;
+}
+
